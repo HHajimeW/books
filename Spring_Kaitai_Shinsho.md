@@ -58,5 +58,6 @@ pom.xml の更新
 ### 8.4 NamedParameterJdbcTemplate の実装
 
 ### 8.5 トランザクション
+トランザクションを使うには @Transactional アノテーション
 
 ### 
